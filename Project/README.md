@@ -1,4 +1,4 @@
-LTW PROJECT
+#LTW PROJECT
 
 Project description for the 2016 edition of the Web Languages and Technologies course.
 
